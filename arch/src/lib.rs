@@ -1,5 +1,5 @@
 #[cfg(feature = "la64")]
-mod la64;
+pub mod la64;
 #[cfg(feature = "la64")]
 pub use la64::{
     board,

@@ -17,3 +17,4 @@ bit_field = "0.10.1"
 
 [features]
 unstable = []
+la64 = []
